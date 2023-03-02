@@ -43,6 +43,3 @@ Run the following line:
 ```sh
 yarn build
 ```
-#� �n�o�s�t�r�-�w�a�l�l�e�t�
-�
-�
